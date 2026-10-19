@@ -1,0 +1,58 @@
+# ----- Python · 데이터 분석 -----
+numpy
+pandas==2.3.3
+matplotlib
+seaborn
+plotly
+scipy
+openpyxl
+
+# ----- 머신러닝 · 딥러닝 기초 -----
+scikit-learn
+torch
+torchvision
+torchaudio
+
+# ----- FastAPI · Spring Boot 연동 -----
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+pydantic==2.13.5
+requests==2.34.2
+httpx
+python-multipart
+
+# ----- LLM · Tool Calling · Agent -----
+openai==3.28.0
+python-dotenv==1.2.4
+streamlit==1.65.0
+tiktoken
+
+# ----- Hugging Face · 임베딩 · RAG -----
+transformers
+sentence-transformers
+huggingface-hub
+datasets
+accelerate
+pypdf
+python-docx
+
+# ----- LangChain · LangGraph -----
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+langgraph
+chromadb
+
+# ----- 통합 AI 애플리케이션 -----
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+sqlalchemy
+
+# ----- VS Code · Jupyter 실습 환경 -----
+jupyter
+ipykernel
+notebook
