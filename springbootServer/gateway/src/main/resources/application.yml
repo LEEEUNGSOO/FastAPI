@@ -6,4 +6,4 @@ server:
   port: 8080                          # Spring 서버 포트
 
 fastapi:
-  base-url: http://localhost:8000     # FastAPI 주소. 코드에 박지 않고 여기서 관리
+  base-url: http://localhost:8000     # FastAPI 주소. 코드에 박지 않고 여기서 관리${fastapi.base-url}
